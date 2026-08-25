@@ -1,0 +1,43 @@
+1.Whether it is positive, negative, or zero
+2.Whether it is even or odd
+3.Whether it is divisible by 3 and 5
+
+4.Get the number of electricity units consumed.
+   Calculate the bill:
+   Units	Rate
+   0–100	₹2/unit
+  101–200	₹3/unit
+  201–300	₹5/unit
+  Above 300	₹7/unit
+
+5.Get a number from the user.
+   Print its multiplication table from 1 to 20.
+
+6.Get a number from the user and determine whether it is prime or not.
+
+7.Pattern program
+* 
+* * 
+* * * 
+* * * * 
+* * * * *
+
+8.Pattern Program
+        * 
+      * * * 
+    * * * * * 
+  * * * * * * * 
+* * * * * * * * * 
+
+9.Pattern Program
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+
+10. Check whether the given year is leap year or non leap year
+
+11. Print the maximum and minimum of the given three numbers
+
+12. Input a year and check if it is a leap year using nested condition.
+       if divisible by 4 -->  check divisible by  100 --> then check divisible by 400
