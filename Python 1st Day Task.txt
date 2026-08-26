@@ -2,18 +2,5 @@
 2.Write a program to calculate an employee's bonus based on salary, experience, and performance rating using arithmetic, comparison, and logical operators.
 3.Write a program to calculate the final shopping amount after applying discounts based on purchase amount, membership status, and festival offer.
 4.Write a program to validate a username, password, and OTP using comparison and logical operators.
-5.Write a program to check whether an ATM withdrawal is valid based on account balance, withdrawal amount, minimum balance, and multiples of ₹100.
-6.Given two lists, check whether they have the same values and whether they refer to the same object using equality and identity operators.
-7.Write a program to check whether a particular word exists in a sentence and whether a particular item exists in a list using membership operators.
-8.Write a program to validate whether a number is within a given range and divisible by either 3 or 5, but not both.
-9.Create a user permission system using bitwise operators where:
-Read = 1
-Write = 2
-Execute = 4
-Check which permissions a user has.
-10.Create a feature toggle system using bitwise operators where:
-Dark Mode = 1
-Notifications = 2
-Location = 4
-Camera = 8
-Enable, disable, toggle, and check features.
+5.Write a program to check whether a particular word exists in a sentence and whether a particular item exists in a list using membership operators.
+6.Write a program to validate whether a number is within a given range and divisible by either 3 or 5, but not both.
