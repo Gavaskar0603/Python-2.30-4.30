@@ -53,7 +53,7 @@ for j in range (1,50):
     if j%3==0:
         print(j)
 '''
-
+'''
 for i in range(6,0,-1):
     print(i)
 
@@ -64,16 +64,18 @@ for i in range(1,6):
 
 #horizontal
 '''
+'''
 for i in a:
     print(i,end="")
 '''
 # reverse a string
+'''
 r=""
 for i in a:
     r=i+r
 print(r)
-
-
+'''
+'''
 for i in range(1,5):
     for j in range(i):
         print("*",end="")
@@ -95,6 +97,11 @@ for i in range(5,0,-1):
 
 for i in range(1,5):
     for j in range(1,i+1):
+        print(i,end="")
+    print()
+
+for i in range(1,5):
+    for j in range(1,i+1):
         print(j,end="")
     print()
 
@@ -108,8 +115,74 @@ a=int(input("Enter a values:"))
 while a<=10:
     print(a)
     a+=1
-
+'''
+'''
 b=int(input("Enter b values:"))
 while b>0:
     print(b)
     
+'''
+'''
+b=int(input("Enter b values:"))
+while b>=1:
+    print(b)
+    b-=1
+
+a=int(input("Enter b values:"))
+while a>0:
+    print(a)
+    a=a+1
+'''
+
+a=int(input("Enter a values:"))
+r=0
+t=a
+while t>0:
+    b=t%10
+    r=(r*10)+b
+    t=t//10
+print(r)  
+
+
+a=int(input("Enter a values:"))
+r=0
+m=1
+t=a
+while t>0:
+    b=t%10  #b=1%10 = 1
+    r=r+b   #r=5+1 =6
+    m=m*b   #m=6*1 =6
+    t=t//10 #t=1//10=0
+print(r,m)  
+
+
+
+for i in range(1,21):
+    if i==13:
+        break
+    print(i)
+
+for i in range(1,21):
+    if i==13:
+        continue
+    print(i)
+
+
+a=int(input("Ente a value:"))
+b=int(input("Enter b value:"))
+if b==0:
+    pass
+    #print("enter non zero value")
+else:
+    print(a/b)
+
+num=1
+for i in range(1,5):
+    for j in range(i):
+        print(num,end="")
+        num+=1
+    print()
+
+
+
+
